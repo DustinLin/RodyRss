@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Rody Feed</title>
+        <link>http://example.com/</link>
+        <description>This is my personal feed!</description>
+        <lastBuildDate>Sun, 05 May 2024 19:09:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[[Crocante] Mushoku Tensei II - Isekai Ittara Honki Dasu Part 2 - 05 (1080p) [x264][EN-US][ES-LA][PT-BR][FR].mkv]]></title>
+            <link>https://nyaa.si/download/1814934.torrent</link>
+            <guid>https://nyaa.si/download/1814934.torrent</guid>
+            <description><![CDATA[anime description]]></description>
+        </item>
+    </channel>
+</rss>
